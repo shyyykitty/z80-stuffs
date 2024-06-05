@@ -1,8 +1,8 @@
-PUBLIC do_stuff
+;PUBLIC do_stuff
 
-.do_stuff
-	NOP
-	NOP
-	NOP
-	RET
+;.do_stuff
+;	NOP
+;	NOP
+;	NOP
+;	RET
 
